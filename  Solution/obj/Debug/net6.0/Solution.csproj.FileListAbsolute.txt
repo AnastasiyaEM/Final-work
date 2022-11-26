@@ -1,0 +1,15 @@
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/bin/Debug/net6.0/Solution
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/bin/Debug/net6.0/Solution.deps.json
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/bin/Debug/net6.0/Solution.runtimeconfig.json
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/bin/Debug/net6.0/Solution.dll
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/bin/Debug/net6.0/Solution.pdb
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/obj/Debug/net6.0/Solution.csproj.AssemblyReference.cache
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/obj/Debug/net6.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/obj/Debug/net6.0/Solution.AssemblyInfoInputs.cache
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/obj/Debug/net6.0/Solution.AssemblyInfo.cs
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/obj/Debug/net6.0/Solution.csproj.CoreCompileInputs.cache
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/obj/Debug/net6.0/Solution.dll
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/obj/Debug/net6.0/refint/Solution.dll
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/obj/Debug/net6.0/Solution.pdb
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/obj/Debug/net6.0/Solution.genruntimeconfig.cache
+/Users/emelanova/Documents/УЧЕБА/Итоговая/ Solution/obj/Debug/net6.0/ref/Solution.dll
